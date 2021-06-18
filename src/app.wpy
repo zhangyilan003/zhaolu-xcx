@@ -53,7 +53,6 @@ export default class extends wepy.app {
     console.log('2333解决冲突', data)
     console.log(111, '第一次')
     console.log(222, '第二次')
-    console.log(333, '第三次')
   }
 
   getUserInfo(cb) {
