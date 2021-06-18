@@ -191,7 +191,7 @@
       },
       request () {
         this.getDogs().then(res => {
-          console.log('2333res', res)
+          console.log('2333res111', res)
         })
       },
       counterEmit (...args) {
